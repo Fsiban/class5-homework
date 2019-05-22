@@ -1,6 +1,6 @@
 # class5-homework
 
-To run the file please follow the steps below:
+To run the dataset-processor.py script please follow the steps below:
 
 1. Download the dataset file: wdbc.data
 2. Open the dataset-processor.py file and specify the location of the dataset file: wdbc.data
