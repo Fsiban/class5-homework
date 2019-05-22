@@ -8,4 +8,4 @@ To run the dataset-processor.py script please follow the steps below:
 4. The plot output will be located in the following Plots sub folders:
     a.line_plots
     b.scatter_plots
-    c.heatmap_plots
+    c.heatmap_plots(additional plot selected for reach exercise)
